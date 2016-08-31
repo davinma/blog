@@ -1,2 +1,5 @@
-# blog
-essays, thoughts and so on
+# Blog
+essays, thoughts and so on ...
+
+# License
+MIT
