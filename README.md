@@ -1,14 +1,13 @@
-# Blog
-essays, thoughts and so on ...
+### 目录
+见 [issues](./../../issues)
 
-# Index
-see the [issues](https://github.com/davinma/blog/issues)
+### 文章列表
 
-#### Article list
-1. Use font to websites
-2. Use image to websites(Part 1)
-3. Use image to websites(Part 2)
-4. background-color with RGBa in IE 6-8
+- [网页中使用中文字体](./../../issues/1)
+- [网页中使用图像](./../../issues/2)
+- [CSS Sprites(精灵图)](./../../issues/3)
+- [Typekit 自定义 CSS 字体](./../../issues/4)
+- [IE6-8 使用 CSS RGBa 属性](./../../issues/5)
 
-# License
+### License
 MIT
