@@ -1,7 +1,8 @@
-### 目录
-见 [issues](./../../issues)
+# About
 
-### 文章列表
+see [issues](./../../issues)
+
+### Articles
 
 - [网页中使用中文字体](./../../issues/1)
 - [网页中使用图像](./../../issues/2)
@@ -11,4 +12,5 @@
 - [html4.01 与 html5 元素对比](./../../issues/6)
 
 ### License
+
 MIT
